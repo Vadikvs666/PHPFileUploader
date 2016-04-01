@@ -1,5 +1,5 @@
 <?php
-namespace VVS\PHPFileUploader
+namespace VVS\PHPFileUploader;
 /**
  * PHPFileUploadclass
  * 
