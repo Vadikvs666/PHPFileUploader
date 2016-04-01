@@ -1,3 +1,3 @@
 # PHPFileUpload
 
-Helperlib toupload files in php
+Helper lib to upload files in php
