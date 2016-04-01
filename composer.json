@@ -1,6 +1,6 @@
 {
   "name": "VVS/PHPFileUpload",
-  "description": "Helper lib to upload files in php,
+  "description": "Helper lib to upload files in php",
   "require": {
     "php": ">=5.3.0"
   },
