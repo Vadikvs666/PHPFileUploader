@@ -1,12 +1,12 @@
 <?php
-namespace VVS\PHPFileUpload
+namespace VVS\PHPFileUploader
 /**
  * PHPFileUploadclass
  * 
  * @author Vadim Vagin
  */
 
-class PHPFileUpload
+class PHPFileUploader
 {
     protected $blacklist;
     
