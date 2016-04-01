@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "VVS\\PHPFileUploader": "src"
+      "VVS\\PHPFileUploader\\": "src"
     }
   }
 }
