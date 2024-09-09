@@ -8,6 +8,6 @@
     "psr-4": {
       "VVS\\PHPFileUploader\\": "src"
     }
-  }
+  },
   "minimum-stability": "dev"
 }
