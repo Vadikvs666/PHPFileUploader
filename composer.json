@@ -9,5 +9,5 @@
       "VVS\\PHPFileUploader\\": "src"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
